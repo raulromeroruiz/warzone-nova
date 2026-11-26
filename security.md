@@ -191,4 +191,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Call of Duty Warzone · Updated 2026-11-25 · Shared under the MIT License*
+*Call of Duty Warzone · Updated 2026-11-26 · Shared under the MIT License*
